@@ -1,1 +1,1 @@
-worker: node soundboard.bot
+worker: node soundboard.bat
